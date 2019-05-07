@@ -1,0 +1,39 @@
+
+.Talco{
+background-color: #FFFFFF
+}
+.Yeso{
+background-color: #E6E6E6
+}
+.Calcita{
+background-color: #CCCCCC
+}
+.Fluorita{
+background-color: #B3B3B3
+}
+.Apatito{
+background-color: #999999
+}
+.Ortosa{
+background-color: #808080
+}
+.Cuarzo{
+background-color: #666666
+}
+.Topacio{
+background-color: #4C4C4C
+}
+.Corindon{
+background-color: #333333
+}
+.Diamante{
+background-color: #191919
+}
+
+.tabla {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align: right;
+width: 600px;
+
+}
